@@ -1,3 +1,4 @@
+import Footer from "./componentes/footer/Footer"
 
 
 
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-<h1>hol amundo</h1>
+      <Footer/>
     </>
   )
 }
