@@ -1,5 +1,5 @@
 import React from 'react'
-import '../footer/stylefooter.css'
+import './stylefooter.css'
 import {Container} from 'react-bootstrap'
 import logovetinaria from '../../assets/footer/logovetinaria.png'
 

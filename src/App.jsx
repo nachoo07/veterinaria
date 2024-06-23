@@ -1,4 +1,7 @@
-import Footer from "./componentes/footer/Footer"
+import Navegador from "./componentes/navegador/Navegador"
+import Rutas from "./componentes/rutas/Rutas"
+import ProductosContext from "./context/ProductosContext"
+import Home from "./paginas/Home"
 
 
 
@@ -6,7 +9,10 @@ function App() {
 
   return (
     <>
-      <Footer/>
+    <ProductosContext>
+      <Navegador/>
+      <Rutas/>
+      </ProductosContext>
     </>
   )
 }
