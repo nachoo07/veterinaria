@@ -20,7 +20,7 @@ const Producto = () => {
                 <>
                   <Col xs={12} lg={3} md={4} sm={6}>
                     <Card style={{ width: '18rem' }}>
-                      <Card.Img variant="top" src="holder.js/100px180" />
+                      <Card.Img variant="top" src={producto.imagen} />
                       <Card.Body>
                         <Card.Title>{producto.id}</Card.Title>
                         <Card.Title>{producto.nombre}</Card.Title>

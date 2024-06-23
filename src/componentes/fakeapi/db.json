@@ -1,19 +1,28 @@
 {
-    "productos": [
-        {
-            "id": "1",
-            "nombre": "leche",
-            "precio": "100"
-        },
-        {
-            "id": "2",
-            "nombre": "gaseosa",
-            "precio": "200"
-        },
-        {
-            "id": "3",
-            "nombre": "chupetin",
-            "precio": "300"
-        }
-    ]
+  "productos": [
+    {
+      "id": "44523835-5c25-44d3-84d3-51f47361adc5",
+      "nombre": "coca cola",
+      "precio": "23",
+      "imagen": "https://www.greenstyle.com.ar/wp-content/uploads/2020/07/Cafetera-Market-Bra-12.jpg"
+    },
+    {
+      "id": "88b7e9d4-0056-4eb7-9cd7-bcfa81249870",
+      "nombre": "pepsi",
+      "precio": "32",
+      "imagen": "https://www.greenstyle.com.ar/wp-content/uploads/2020/07/Cafetera-Market-Bra-12.jpg"
+    },
+    {
+      "id": "4d6aacd6-7529-4171-898d-9f7996d045af",
+      "nombre": "cafe",
+      "precio": "134",
+      "imagen": "https://www.greenstyle.com.ar/wp-content/uploads/2020/07/Cafetera-Market-Bra-12.jpg"
+    },
+    {
+      "id": "905732dc-b60f-4517-980f-653187373661",
+      "nombre": "hielo",
+      "precio": "12",
+      "imagen": "https://www.greenstyle.com.ar/wp-content/uploads/2020/07/Cafetera-Market-Bra-12.jpg"
+    }
+  ]
 }
